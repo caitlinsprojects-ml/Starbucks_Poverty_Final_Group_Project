@@ -3,4 +3,4 @@ This repository contatins the file submitted as the final group project for COGS
 
 Proposed Oct 23, 2021 this project was completed over the course of 7 total weeks. 
 
-For a presentation of our results, please see the YouTube video linked at the top.
+For a presentation of our results, please see the YouTube video linked at the top of the file.
